@@ -27,3 +27,4 @@ Office(Word, Excel, PowerPoint, Outlook)
  Criativo
 
 [Exemplos](https://github.com/nerumarthur/portifolio/tree/main/Exemplos%20Shell)
+[Avaliação](https://github.com/nerumarthur/portifolio/tree/main/TecnicoTi/avaliacao_pratica)
