@@ -1,30 +1,32 @@
-# ARTHUR STEINBACH
+# Portfólio
 
-## Rua Bom Pastor-981·(48)984970952
-## STEIN.ARTH13@GMAIL.COM
+### Nome
+#### Arthur Steinbach
+### Nascimento
+#### 24/03/2005
+### Email para contato
+#### arthur_steinbach@estudante.sc.senai.br
+### Qualidades
+#### Organização; Flexibilidade; Ética; Adaptabilidade.
 
-EXPERIÊNCIA
-Sem experiencia, procurando o primeiro emprego e com disposição para entrar no mercado de
-trabalho
+### Cursando o ensino médio integrado com Desenvolvimento de Sistemas.
 
-EDUCAÇÃO
 
-ENSINO FUNDAMENTAL, COLÉGIO CRIATIVO
-Concluído
-CURSO DE ROBÓTICA, COLÉGIO CRIATIVO
-Dois Anos de Curso
+# _Portfólio para adicionar atividades da área técnica._
 
-ENSINO MÉDIO, SESI SENAI
-Cursando 2°Ano
 
-HABILIDADES
- Boa Comunicação
- Trabalho bem em equipe
- Conhecimento Básico do Pacote
-Office(Word, Excel, PowerPoint, Outlook)
+## **_Banco de Dados_**
 
- Facilidade para Aprender
- Criativo
 
-[Exemplos](https://github.com/nerumarthur/portifolio/tree/main/Exemplos%20Shell)
-[Avaliação](https://github.com/nerumarthur/portifolio/tree/main/TecnicoTi/avaliacao_pratica)
+## **_Fundamentos de T.I_**
+
+
+## **_Lógica Computacional_**
+
+
+## **_Modelagem de Sistemas_**
+
+
+
+## **_Programação de Aplicativo_**
+
